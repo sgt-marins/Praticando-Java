@@ -2,7 +2,7 @@ package intermediario;
 
 import java.util.Scanner;
 
-//Write a Java program to find the number of days in a month
+//Escreva um programa java, onde o usuário digite o número do mês e seja informado o mês correspondente e a quantidade de dias
 
 public class ExercicioUm {
 
@@ -72,7 +72,6 @@ public class ExercicioUm {
 				numeroDeDias = 31;
 				break;
 
-				
 			}
 		}
 
